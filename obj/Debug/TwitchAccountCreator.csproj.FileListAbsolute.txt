@@ -1,0 +1,18 @@
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.exe.config
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.exe
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.pdb
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.csprojResolveAssemblyReference.cache
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.Form1.resources
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.Properties.Resources.resources
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.csproj.GenerateResource.Cache
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.exe
+c:\users\str8\documents\visual studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.pdb
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.exe.config
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.exe
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.pdb
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.exe
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\bin\Debug\TwitchAccountCreator.pdb
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.csprojResolveAssemblyReference.cache
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.Form1.resources
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.Properties.Resources.resources
+D:\TwitchAccountCreator\TwitchAccountCreator\TwitchAccountCreator\obj\Debug\TwitchAccountCreator.csproj.GenerateResource.Cache

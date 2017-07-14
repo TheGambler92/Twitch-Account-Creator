@@ -1,0 +1,8 @@
+C:\Users\str8\Documents\Visual Studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.exe.config
+C:\Users\str8\Documents\Visual Studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.exe
+C:\Users\str8\Documents\Visual Studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\bin\Release\TwitchAccountCreator.pdb
+C:\Users\str8\Documents\Visual Studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.Form1.resources
+C:\Users\str8\Documents\Visual Studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.Properties.Resources.resources
+C:\Users\str8\Documents\Visual Studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.csproj.GenerateResource.Cache
+C:\Users\str8\Documents\Visual Studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.exe
+C:\Users\str8\Documents\Visual Studio 2012\Projects\TwitchAccountCreator\TwitchAccountCreator\obj\Release\TwitchAccountCreator.pdb
